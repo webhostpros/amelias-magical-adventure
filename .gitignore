@@ -1,0 +1,39 @@
+# Public-source publication uses an explicit allowlist. Licensed source art,
+# personal saves, downloaded tools and local QA artifacts stay private.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/CHANGELOG.md
+!/THIRD_PARTY_ASSETS.md
+!/ameliasadventure1.uproject
+!/Config/
+/Config/*
+!/Config/DefaultEngine.ini
+!/Config/DefaultGame.ini
+!/Config/DefaultInput.ini
+!/Content/
+/Content/*
+!/Content/AmeliasAdventure/
+/Content/AmeliasAdventure/*
+!/Content/AmeliasAdventure/Blueprints/
+!/Content/AmeliasAdventure/Materials/
+!/Content/AmeliasAdventure/Lvl_AmeliasAdventure.umap
+!/Content/__ExternalActors__/
+/Content/__ExternalActors__/*
+!/Content/__ExternalActors__/AmeliasAdventure/
+!/Content/__ExternalObjects__/
+/Content/__ExternalObjects__/*
+!/Content/__ExternalObjects__/AmeliasAdventure/
+!/Tools/
+!/Docs/
+# Never publish generated or confidential runtime data, even under allowed trees.
+**/__pycache__/
+**/*.sav
+**/*.log
+**/.env*
+**/credentials*.json
+**/secrets*.json
+**/*.pem
+**/*.key
+

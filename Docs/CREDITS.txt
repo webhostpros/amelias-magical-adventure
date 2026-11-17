@@ -1,0 +1,8 @@
+Amelia The Brave - Chapter 1: Save Ruffles
+
+Created for Amelia by Charley.
+Built with Unreal Engine. Unreal Engine is a trademark of Epic Games, Inc.
+Unreal Engine copyright 1998-2026 Epic Games, Inc. All rights reserved.
+
+Character, castle, animal, music and sound assets retain their creators' rights.
+See THIRD_PARTY_ASSETS.md for principal asset packs and source boundaries.

@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "integration_checks": 52,
+  "pet_contact_checks": 6,
+  "static_checks": 12,
+  "maze_checks": 4,
+  "compiled_gameplay_blueprints": 20,
+  "windows_shipping_build": "passed",
+  "puppy_material_compile_failures": 0,
+  "desktop_checks": [
+    "restored sunny world loads",
+    "puppy jail visible before victory",
+    "white/black Ruffles with blue collar",
+    "varied dog colors and sizes",
+    "pause acknowledgement",
+    "save confirmation and acknowledgement",
+    "windowed/fullscreen switching",
+    "PNG and TXT desktop reports in both modes",
+    "sound adjustment and save acknowledgement",
+    "start-over confirmation cancelled",
+    "save-and-exit closes game",
+    "exit without save closes game"
+  ],
+  "production_save_preserved": true,
+  "archive_crc_check": "passed",
+  "archive_sha256": "1365b70473508ab4cdab64ea0644e68522b819b67ed286d9116a4768202ef644",
+  "licensed_raw_source_assets_excluded": true,
+  "physical_gamepad_tested": false
+}
